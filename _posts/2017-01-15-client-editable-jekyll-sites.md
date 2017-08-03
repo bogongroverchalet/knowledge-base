@@ -10,6 +10,7 @@ resources:
     link: https://github.com/CloudCannon/creative-jekyll-theme/
   - name: CloudCannon
     link: https://cloudcannon.com
+type: Video
 set: getting-started
 set_order: 1
 ---
