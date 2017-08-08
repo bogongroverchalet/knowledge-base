@@ -1,6 +1,4 @@
-- name: Tutorials
+- name: Home
+  link: https://bogongroverchalet.org.au/
+- name: Knowledge Base Home
   link: /
-- name: Videos
-  link: /videos/
-- name: FAQ
-  link: /faq/

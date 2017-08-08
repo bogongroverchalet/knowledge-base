@@ -1,24 +1,27 @@
 # ----
 # Site
 
-title: Base
-url: "https://orange-ape.cloudvent.net/"
+title: Bogong Rover Chalet Knowledge Base
+url: "https://info.bogongroverchalet.org.au/"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-70761518-3
 disqus_shortname:
 newsletter_action:
 
+mainsite: http://preview.bogongroverchalet.org.au/
+
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: Bogong Rover Chalet Knowledge Base
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Base Template
+  name: Bogong Rover Chalet
   links:
-    - https://github.com/CloudCannon/base-jekyll-template
+    - https://bogongroverchalet.org.au/
+    - https://info.bogongroverchalet.org.au/
 
 # -----
 # Build
@@ -56,6 +59,7 @@ defaults:
     values:
       layout: "post"
       comments: true
+      type: Document
   -
     scope:
       type: "sets"
