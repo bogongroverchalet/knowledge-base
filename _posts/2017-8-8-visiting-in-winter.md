@@ -56,5 +56,5 @@ The normal run down of a week is as follows:
 Everyone is expected to make their own way to Tawonga - although we make a
 special point to help our Venturer aged participants.
 
-As a group of participants we communicate before our Ski Week commences, and
-work to organise things like carpooling.
+We communicate as a group of participants before our Ski Week commences and to
+organise things like carpooling.
