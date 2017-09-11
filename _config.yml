@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Bogong Rover Chalet Knowledge Base
+title: Bogong Rover Chalet Information Hub
 url: "https://info.bogongroverchalet.org.au/"
 baseurl:
 google_analytics_key: UA-70761518-3
@@ -12,7 +12,7 @@ mainsite: http://preview.bogongroverchalet.org.au/
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Bogong Rover Chalet Knowledge Base
+description: Bogong Rover Chalet Information Hub
 author:
   name:
   email:
