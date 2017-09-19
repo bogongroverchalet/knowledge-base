@@ -48,7 +48,7 @@ The normal run down of a week is as follows:
    participants) and get the bus up to [Falls Creek](https://www.google.com.au/maps/place/Windy+Corner+Car+Park,+Bogong+High+Plains+Rd,+Falls+Creek+VIC+3699/@-36.8645073,147.2864847,17z/data=!4m2!3m1!1s0x6b2447639a2dd45b:0x21aeee899c12bda5)
 - From there we ski in to the [Chalet](https://www.google.com.au/maps/dir/Windy+Corner+Car+Park,+Bogong+High+Plains+Rd,+Falls+Creek+VIC+3699/Bogong+Rover+Chalet,+Nelse,+Victoria/@-36.884287,147.3048098,14z/data=!4m8!4m7!1m2!1m1!1s0x6b2447639a2dd45b:0x21aeee899c12bda5!1m2!1m1!1s0x6b2447ea5e2780c1:0xd9d7ac523322deeb!3e2) (it's 11km, so you must be fit enough to hike that distance with your pack)
 - We have a heap of fun, with everyone chipping in to help run the week (we
-  split in to duty groups to divide our basic chores)
+  split into duty groups to divide our basic chores)
 - The following Saturday we, with great regret, pack up and leave; skiing back
   to Falls Creek before getting the Bus down again, and then driving back home.
 
