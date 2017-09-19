@@ -39,9 +39,8 @@ All our other weeks are open to everyone 18+.
 
 The normal run down of a week is as follows:
 
-- A few weeks before the Ski Week, all participants attend a Briefing Night -
-  details are provided (we talk about how everything works, what to expect, and
-  answer all your questions)
+- A few weeks before the Ski Week, all participants attend a [Briefing
+  Night](#briefing-night) - details are provided
 - Friday night we all meet and sleep in [Tawonga](https://www.google.com.au/maps/place/Tawonga+Hall,+Tawonga+VIC+3697/@-36.6868208,147.1410288,14z/data=!4m2!3m1!1s0x6b2417adf98d5afb:0x71c2625a84776f38) (Venturers, we organise car pooling from Melbourne)
 - Saturday morning we all head to [Falls Creek Coaches](https://www.google.com.au/maps/place/Falls+Creek+Coaches,+Tawonga+South+VIC+3698/@-36.7379858,147.1609871,17z/data=!4m2!3m1!1s0x6b243d96db96a74f:0xa74a0c7ad6694da1)
    park our cars (they're very nice and do a cheaper parking rate for Chalet
@@ -59,3 +58,14 @@ special point to help our Venturer aged participants.
 
 We communicate as a group of participants before our Ski Week commences and to
 organise things like carpooling.
+
+## Briefing night
+
+A few weeks before the Ski Week we have a Briefing Night with our Ski Party (all
+the participants).
+
+Here we talk about how everything works, what to expect, and answer any of your
+questions.
+
+It's a great way to meet everyone else in your Ski Party, and we also decide on
+a theme for our week (just a bit of fun).
