@@ -27,6 +27,15 @@
 				ga("send", "pageview");
 			</script>
 		{% endif %}
+
+		<script>
+		var _target = new RegExp('target=([^?&]+)', 'i').exec(window.location.search)
+		, target = _target ? _target[1] : null
+		if(target) {
+		window.location.hash = target
+		window.location.search = window.location.search.replace(new RegExp(_target[0] + '&?', ''), '')
+		}
+		</script>
 	</head>
 
 	<body class="{{ page.body_class }}">

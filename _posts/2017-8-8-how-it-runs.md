@@ -105,7 +105,7 @@ the full list of Crew members.
 In 2004, there were no new members invested into the Bogong Rover Crew. To
 remedy that for 2005, a nominations form has been created. If you know of anyone
 who meets the membership requirements below, then nominate them by filling in
-this form.
+[this form](/downloads/bogongRoverCrewNominationForm.pdf).
 
 #### Membership
 
