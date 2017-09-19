@@ -43,6 +43,8 @@ exclude:
 collections:
   sets:
 
+jekyll-minifier:
+  preserve_line_breaks: true
 
 jekyll-archives:
   enabled: ['categories']
