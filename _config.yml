@@ -10,6 +10,8 @@ newsletter_action:
 
 mainsite: http://bogongroverchalet.org.au/
 
+media_folder: images
+
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Bogong Rover Chalet Information Hub
