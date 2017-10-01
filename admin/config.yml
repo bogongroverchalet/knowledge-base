@@ -17,7 +17,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Type", name: "type", widget: "string"}
+      #- {label: "Type", name: "type", widget: "string"}
       #- {label: "Set", name: "set", widget: "relation", collection: "set"}
       #- {label: "Set order", name: "set_order", widget: "number"}
       - {label: "List order", name: "list_order", widget: "number", valueType: "int"}
