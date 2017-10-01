@@ -26,6 +26,7 @@ Donna Buang skiing are highlighted in the photo.
 <p style="display: flex" markdown="1">
 ![Mt Donna Buang Ski Run 2/8/1931](/images/earlyDonnaBuang.jpg)
 ![Early skier](/images/earlySkier.jpg)
+![Early Rover Chalet](/images/earlyChalet.jpg)
 </p>
 
 The first Rover ski trip to the Bogong High Plains was in the August of 1932
@@ -72,6 +73,7 @@ environmental education, hiking and mountain biking opportunities. Despite the
 changes the Chalet's purpose remains true to its aims, the most important of
 which are to educate young people, and to be a "fellowship of open air and
 service".
+
 
 
 
