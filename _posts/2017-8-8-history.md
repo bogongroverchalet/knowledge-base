@@ -1,11 +1,11 @@
 ---
-date: 2017-8-8
 title: History
-description: >
+description: |
   Built over 70 years ago, the Chalet has an awesome history.
+date: 2017-8-8
+list_order: 1
 categories:
   - about
-list_order: 1
 ---
 
 <!-- TODO -->
@@ -23,7 +23,7 @@ took place at Mt Donna Buang. Whilst there was no snow on that occasion, Donna
 Buang was to be the venue for a number of early ski trips. The early days of Mt
 Donna Buang skiing are highlighted in the photo.
 
-![Mt Donna Buang Ski Run 2/8/1931](/images/earlyDonnaBuang.jpg)
+![Mt Donna Buang Ski Run 2/8/1931](/images/earlyDonnaBuang.jpg)![Early skier](/images/earlySkier.jpg)
 
 The first Rover ski trip to the Bogong High Plains was in the August of 1932
 when a party of four, Roy Driver, H.E. Williams, K.I. Graham and Ian Nichol,
@@ -69,3 +69,4 @@ environmental education, hiking and mountain biking opportunities. Despite the
 changes the Chalet's purpose remains true to its aims, the most important of
 which are to educate young people, and to be a "fellowship of open air and
 service".
+
