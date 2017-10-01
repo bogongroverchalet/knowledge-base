@@ -21,6 +21,7 @@ collections: # A list of collections the CMS should be able to edit
       #- {label: "Set", name: "set", widget: "relation", collection: "set"}
       #- {label: "Set order", name: "set_order", widget: "number"}
       - {label: "List order", name: "list_order", widget: "number", valueType: "int"}
+      - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "data"
     label: "Data"
