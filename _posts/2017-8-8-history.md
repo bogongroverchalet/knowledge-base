@@ -70,3 +70,4 @@ changes the Chalet's purpose remains true to its aims, the most important of
 which are to educate young people, and to be a "fellowship of open air and
 service".
 
+
