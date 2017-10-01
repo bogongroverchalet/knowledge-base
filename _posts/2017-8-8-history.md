@@ -23,7 +23,7 @@ took place at Mt Donna Buang. Whilst there was no snow on that occasion, Donna
 Buang was to be the venue for a number of early ski trips. The early days of Mt
 Donna Buang skiing are highlighted in the photo.
 
-![Mt Donna Buang Ski Run 2/8/1931]({{ site.url }}/images/earlyDonnaBuang.jpg)
+![Mt Donna Buang Ski Run 2/8/1931](/images/earlyDonnaBuang.jpg)
 
 The first Rover ski trip to the Bogong High Plains was in the August of 1932
 when a party of four, Roy Driver, H.E. Williams, K.I. Graham and Ian Nichol,
