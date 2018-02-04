@@ -1,13 +1,13 @@
 ---
-date: 2017-8-8
 title: Visiting in Summer
 description: >
   A great summer destination for a Group holiday, to have a planning weekend, to
   come hang out and help with one of our working bees, or just relax and watch
   the world go by.
+date: 2017-8-8
+list_order: 2
 categories:
   - visiting
-list_order: 2
 ---
 
 The Victorian High Country is beautify in Summer; and there's no better base for
@@ -52,10 +52,10 @@ ride in the scenic Victorian high country this weekend is for YOU. Venturer
 Leaders are encouraged to accompany their Venturers.
 
 
-When: During the Easter School Holidays, dates to be confirmed.
+When: During the Easter School Holidays - **Thursday 5th April - Sunday 8th April 2018**.
 
-Cost: approx $85 (covers meals, accommodation, and bus transport for you and
-your bike).
+Cost: $100 (covers meals, accommodation, and bus transport for you and
+your bike; bike hire extra).
 
 Location: [The Bogong Rover Chalet](#getting-here) (we organise a bus from
 Melbourne).
