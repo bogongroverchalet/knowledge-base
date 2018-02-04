@@ -33,6 +33,8 @@ do up here, don't hesitate, you'll have an awesome time!
 
 ## Mountain Bike Weekend
 
+[Book now, before it books out!](https://www.trybooking.com/UAND)
+
 The Bogong Rover Chalet offers a unique opportunity for Venturer's to experience
 Mountain Bike Riding in the Victorian High Country at a great price.
 
@@ -52,10 +54,10 @@ ride in the scenic Victorian high country this weekend is for YOU. Venturer
 Leaders are encouraged to accompany their Venturers.
 
 
-When: During the Easter School Holidays - **Thursday 5th April - Sunday 8th April 2018**.
+When: During the Easter School Holidays, dates to be confirmed.
 
-Cost: $100 (covers meals, accommodation, and bus transport for you and
-your bike; bike hire extra).
+Cost: approx $85 (covers meals, accommodation, and bus transport for you and
+your bike).
 
 Location: [The Bogong Rover Chalet](#getting-here) (we organise a bus from
 Melbourne).
@@ -72,6 +74,8 @@ following. Some may require additional work before / after the MTB weekend:
 - Pursuits 1 or Outdoor 1 – Do a cycling pursuit. Log the trip including routes
   taken, equipment used and skills involved and learnt.
 - Ideals 1 (part 5) – Run a Scouts Own on the weekend.
+
+[Book now!](https://www.trybooking.com/UAND)
 
 For more details contact our [Bookings Team]({% post_url 2017-8-8-contact
 %}#bookings).
