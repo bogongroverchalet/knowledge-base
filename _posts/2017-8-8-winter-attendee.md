@@ -23,9 +23,13 @@ related_links: false
   {% if post.slug == 'winter-blisters' %}
     {% assign winter_blisters = post.content %}
   {% endif %}
+  {% if post.slug == 'winter-getting-in' %}
+    {% assign winter_getting_in = post.content %}
+  {% endif %}
 {% endfor %}
 
 {{ winter_overview }}
 {{ winter_preparation }}
 {{ winter_gear }}
 {{ winter_blisters }}
+{{ winter_getting_in }}
