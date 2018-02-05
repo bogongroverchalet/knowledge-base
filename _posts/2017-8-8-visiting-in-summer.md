@@ -35,7 +35,7 @@ do up here, don't hesitate, you'll have an awesome time!
 
 [Book now, before it books out!](https://www.trybooking.com/UAND)
 
-The Bogong Rover Chalet offers a unique opportunity for Venturer's to experience
+The Bogong Rover Chalet offers a unique opportunity for Venturers to experience
 Mountain Bike Riding in the Victorian High Country at a great price.
 
 
