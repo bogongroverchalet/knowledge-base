@@ -53,7 +53,7 @@ Whether you are a die-hard mountain biker or someone who would enjoy a casual
 ride in the scenic Victorian high country this weekend is for YOU. _NOTE: You still need to be a fairly strong cycler._ Venturer Leaders are encouraged to accompany their Venturers.
 
 
-When: Thursday 11th April to Sunday 14th April 2018.
+When: Thursday 11th April to Sunday 14th April 2019.
 
 Cost: _TDC (< $150)_ covers meals, accommodation, and bus transport for you and your bike from [Heathmont Scout Centre (on Heathmont Road)](https://www.google.com.au/maps/place/Heathmont+Scout+Centre/@-37.8267464,145.2410067,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad63bc6bcd27547:0xb01ec27ce45bfd9b!8m2!3d-37.8267464!4d145.2432007)
 
