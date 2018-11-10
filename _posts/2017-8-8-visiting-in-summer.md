@@ -35,7 +35,7 @@ do up here, don't hesitate, you'll have an awesome time!
 
 [Book now, before it books out!](https://www.trybooking.com/UAND)
 
-The Bogong Rover Chalet offers a unique opportunity for Venturer's to experience
+The Bogong Rover Chalet offers a unique opportunity for Venturers to experience
 Mountain Bike Riding in the Victorian High Country at a great price.
 
 
@@ -50,16 +50,15 @@ aspects of Mountain Bike Riding including Down Hill, Cross Country, Obstacle
 Crossings, Bike Maintenance and Safety.
 
 Whether you are a die-hard mountain biker or someone who would enjoy a casual
-ride in the scenic Victorian high country this weekend is for YOU. Venturer
-Leaders are encouraged to accompany their Venturers.
+ride in the scenic Victorian high country this weekend is for YOU. _NOTE: You still need to be a fairly strong cycler._ Venturer Leaders are encouraged to accompany their Venturers.
 
 
-When: Thursday 5th April to Sunday 8th April 2018 (middle week of the Easter School Holidays).
+When: Thursday 11th April to Sunday 14th April 2018.
 
-Cost: $100 ($35 + $65 transport from Heathmont) covers meals, accommodation, and bus transport for you and your bike from [Heathmont Scout Centre (on Heathmont Road)](https://www.google.com.au/maps/place/Heathmont+Scout+Centre/@-37.8267464,145.2410067,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad63bc6bcd27547:0xb01ec27ce45bfd9b!8m2!3d-37.8267464!4d145.2432007)
+Cost: _TDC (< $150)_ covers meals, accommodation, and bus transport for you and your bike from [Heathmont Scout Centre (on Heathmont Road)](https://www.google.com.au/maps/place/Heathmont+Scout+Centre/@-37.8267464,145.2410067,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad63bc6bcd27547:0xb01ec27ce45bfd9b!8m2!3d-37.8267464!4d145.2432007)
 
 Location: [The Bogong Rover Chalet](#getting-here) (we organise a bus from
-Melbourne). You can either make your own way there, or we organise transport for you and your bike from [Heathmont Scout Centre (on Heathmont Road)](https://www.google.com.au/maps/place/Heathmont+Scout+Centre/@-37.8267464,145.2410067,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad63bc6bcd27547:0xb01ec27ce45bfd9b!8m2!3d-37.8267464!4d145.2432007) on Thursday afternoon for $65.
+Melbourne). You can either make your own way there, or we organise transport for you and your bike from [Heathmont Scout Centre (on Heathmont Road)](https://www.google.com.au/maps/place/Heathmont+Scout+Centre/@-37.8267464,145.2410067,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad63bc6bcd27547:0xb01ec27ce45bfd9b!8m2!3d-37.8267464!4d145.2432007) on Thursday afternoon.
 
 What else: The weekend has a limited number of places so first in with money
 will be accepted.
