@@ -3,7 +3,7 @@ date: 2017-8-8
 title: Winter gear
 description: >
   Nothing will spoil your Winter Party more than having equipment
-  that doesn't do the job right. We'll get you sorted.
+  that doesn't do the job right. This page will help you get sorted.
 categories:
   - winter attendee information
 list_order: 3
@@ -58,9 +58,10 @@ specifically designed for men or women
 - _Cross Country skis_ – suitable for medium to heavy touring with a pack. The
   use of some sort of retention strap is highly recommended to prevent runaway
   skis.
-- _Cross Country Ski Boots_ – A sturdier high cut boot is recommended.
-  Waterproof leather boots with 'Snoseal' or similar. (Do not use Dubbin as it
-  softens the leather)
+- _Cross Country Ski Boots_ – Either plastic or leather boots are recommended.
+  For leather boots, a sturdier high cut boot is recommended.  Waterproof
+  leather boots with 'Snoseal' or similar. (Do not use Dubbin as it softens the
+  leather)
 - _Cross Country Ski Poles_ – Any material is suitable. A larger basket for soft
   snow is recommended.
 - _U.V. Sunglasses_ – with retention strap and ski goggles if desired.
@@ -87,8 +88,8 @@ specifically designed for men or women
 
 ### Clothing for the Chalet
 
-- _Scout Uniform_ - minimum of Shirt and Scarf (Alpine Rovers and Venturers and
-  Bogong Rovers don't forget your scarf)
+- _Scout Uniform_ - minimum of Shirt and Scarf (don't forget your Alpine
+  Venturer, Alpine Rover, or Bogong Rovers scarf if you have one)
 - _Footwear_ - Light weight runners, Slippers or Surf sandals
 - _Spare Clothes_ - a single set of clothes should suffice, there is a washing
   machine and powder is provided.
@@ -109,6 +110,8 @@ specifically designed for men or women
 - _Sunscreen & lip balm_ - '30+' and water resistant
 - _Camera_ - light weight, optional.
 - _Small torch_ - with new batteries
+- _Mobile phone_ - reception at the chalet itself is minimal to non-existant,
+  however it can useful while touring.
 
 **If you have any doubts, questions or concerns regarding equipment contact your
 party leader or the bookings officer on 0407 242 538**

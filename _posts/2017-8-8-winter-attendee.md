@@ -1,9 +1,9 @@
 ---
 date: 2017-8-8
-title: Winter attendee information - one pager
+title: How to prepare, pack, and get to your winter party
 description: >
-  Our Winter Attendee One Pager tells you everything you need to know. Print it
-  out and stick it to your fridge.
+  This page tells you everything you need to know. Print it out and stick it to
+  your fridge.
 categories:
   - winter attendee information
 list_order: null

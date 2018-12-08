@@ -10,19 +10,20 @@ list_order: 4
 ---
 
 ## Avoiding blisters
-- Keep your feet dry - use 'Snowseal' on your boots and wear gaiters
-- Do lots of walking or skiing with a pack
+- Keep your feet dry - use 'Snowseal' on your boots (if leather) and wear
+  gaiters
+- Do lots of walking or skiing with a pack prior to the event
 - Buy at least one pair of thin thermal socks and one pair of 'Explorer' style
   socks. (Cheap insurance at about $20) Do this before hiring your skis, and
   wear them when you are trying on your boots. Your boots should fit snugly with
   a small amount of space at the toes. Pure wool and pure nylon socks are not
   recommended.
 - Keep your pack weight down
-- Soak your feet in methylated spirits or condys crystals (potassium permganate)
-  for about 5 minutes every 2 or 3 nights in the fortnight before your winter
-  party.
+- Soak your feet in methylated spirits for about 5 minutes every 2 or 3 nights
+  in the fortnight before your winter party.
 - Pretape your feet with 'Leukoplast' or 'Second Skin' before leaving Tawonga
-  Hall on Saturday morning.
+  Hall on Saturday morning. Guess the likely blister zones eg heels, toes,
+  sides.
 
 **Above all if you feel a hot spot or blister developing stop and deal with it.
 You will not be holding up the party. Seek advice from the party leader. The hot

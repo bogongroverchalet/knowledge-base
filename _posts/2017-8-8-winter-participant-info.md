@@ -1,6 +1,6 @@
 ---
 date: 2017-8-8
-title: Participants Information Pack
+title: What to expect at your winter party
 description:
 list_order: 4
 description: >
@@ -63,7 +63,7 @@ associated tasks and information.
 ### Joeys
 
   - Chop and stack wood for the stove, fireplace and Theodore.
-  - Ensure you are wearing proper foot ware (steel cap gumboots supplied).
+  - Ensure you are wearing proper footwear (steel cap gumboots supplied).
   - Follow wood sizing guide for each wood pile. (Found hanging next to the
     axes.)
   - Stack the stove wood in the top section of the Dining Room wood shelves and
@@ -95,8 +95,9 @@ associated tasks and information.
   - Wash hands thoroughly before and after handling food.
   - Clean out the oven of ash once cool. (Recommended to be done in the
     morning before roster group changeover.)
-  - Boil Tea towels and aprons in the large aluminum pot on the oven at the
-    end of each day.
+  - Place tea towels and aprons in the large aluminum pot on the oven, making
+    sure there is water in it. At the end of each day the crew leaders will boil
+    and wash them.
 
 ### Stewards
 

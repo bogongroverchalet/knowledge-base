@@ -6,6 +6,8 @@ categories:
 list_order: 3
 ---
 
+_Note, winter parties require a minimum of ten participants to run._
+
 ## Winter Party Withdrawal
 
  - Refunds may be applied for in writing addressed to the BCMG.

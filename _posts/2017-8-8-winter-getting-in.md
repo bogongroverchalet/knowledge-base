@@ -47,9 +47,9 @@ North to Glenrowan and then follow the directions as from Melbourne.
   breakfast and clean the hall
 
 - Head to Falls Creek Coach Service, Tawonga South by 7.00am at the very latest.
-  Cars may be left in the Falls Creek Coach Service’s car park at the cost of
-  $20. Make sure you tell staff that you are a Rover. The BCMG can take no
-  responsibility for the security of your car.
+  Cars may be left in the Falls Creek Coach Service’s car park at the special
+  Rover price of $20. Make sure you tell staff that you are a Rover. The BCMG
+  can take no responsibility for the security of your car.
 
 - The winter party Quartermaster will issue you with fresh food. Make sure that
   you have left room and have plastic bags.
