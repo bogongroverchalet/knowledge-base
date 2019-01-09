@@ -1,4 +1,10 @@
 - name:
+  link: tel:0407242538
+  social_icon: Phone
+- name:
+  link: mailto:bookings@bogongroverchalet.org.au
+  social_icon: Email
+- name:
   link: https://facebook.com/BogongRoverChalet/
   new_window: true
   social_icon: Facebook
