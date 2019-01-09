@@ -17,7 +17,7 @@ Get in touch on [Facebook](http://www.facebook.com/BogongRoverChalet).
 Our wonderful bookings team can help with enquires, or are more than happy to
 take your money ;-)
 
-Call us on [0407 CHALET](tel:0407242358).<br>
+Call us on [0407 CHALET](tel:0407242538).<br>
 Email us at [bookings@bogongroverchalet.org.au](mailto:bookings@bogongroverchalet.org.au).<br>
 
 ## Management
