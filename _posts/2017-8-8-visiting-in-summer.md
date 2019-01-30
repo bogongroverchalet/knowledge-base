@@ -33,7 +33,7 @@ do up here, don't hesitate, you'll have an awesome time!
 
 ## Mountain Bike Weekend
 
-<!--[Book now, before it books out!](https://www.trybooking.com/UAND)-->
+[Book now, before it books out!](https://www.trybooking.com/BAKRW)
 
 The Bogong Rover Chalet offers a unique opportunity for Venturers to experience
 Mountain Bike Riding in the Victorian High Country at a great price.
@@ -73,7 +73,7 @@ following. Some may require additional work before / after the MTB weekend:
   taken, equipment used and skills involved and learnt.
 - Ideals 1 (part 5) – Run a Scouts Own on the weekend.
 
-[Book now!](https://www.trybooking.com/UAND)
+[Book now!](https://www.trybooking.com/BAKRW)
 
 For more details contact our [Bookings Team]({% post_url 2017-8-8-contact
 %}#bookings).
