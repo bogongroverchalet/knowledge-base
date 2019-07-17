@@ -1,12 +1,12 @@
 ---
-date: 2017-8-8
 title: Winter gear
 description: >
-  Nothing will spoil your Winter Party more than having equipment
-  that doesn't do the job right. This page will help you get sorted.
+  Nothing will spoil your Winter Party more than having equipment that doesn't
+  do the job right. This page will help you get sorted.
+date: 2017-8-8
+list_order: 3
 categories:
   - winter attendee information
-list_order: 3
 ---
 
 ## Equipment checklist
@@ -33,15 +33,18 @@ cheaper items. If in any doubt, speak to your Party Leader.
 - Prepared lunch and energy food such as chocolate, muesli bars or scroggin.
 - All your Ski Equipment – Cross-country skis, boots and poles. See other page
   for suggestions.
-- All your equipment and clothing for the chalet.
+- All your equipment and clothing for the chalet in a pack.
 
-## Pack, ski equipment and other gear
+## Pack, ski equipment, and other gear
 
 _Pack_ – with ample hip belt and chest strap. Modern internally framed packs
 with large hip belts to load weight onto the hips make carrying your load
 easier. They are available for hire from an outdoor shop if necessary. Packs are
 not one size fits all and need to be fitted properly. Some packs are
 specifically designed for men or women
+
+_Sleds are strictly prohibited, gear must be carried in a pack._
+
 - _Water proofing_ - be sure to line your pack with a large plastic bag to keep
   everything dry. Pack your sleeping bag into another plastic bag. You can never
   have too many plastic bags.
@@ -112,6 +115,7 @@ specifically designed for men or women
 - _Small torch_ - with new batteries
 - _Mobile phone_ - reception at the chalet itself is minimal to non-existant,
   however it can useful while touring.
+ - Note: _Sleds are strictly prohibited, gear must be carried in a pack._
 
 **If you have any doubts, questions or concerns regarding equipment contact your
 party leader or the bookings officer on 0407 242 538**
