@@ -26,8 +26,8 @@ _Note, winter parties require a minimum of ten participants to run._
 ## Photos
 
  - Please note any photos taken at Chalet events may be shared publicly or used
-   for promaotional material.  If, for any reason, you do not wish to give
-   consent to your child’s or your own image being used on social media or in
+   for promotional material. If, for any reason, you do not wish to give consent
+   to your child’s or your own image being used on social media or in
    promotional material please email
    [bogongchalet@vicscouts.com.au](mailto:bogongchalet@vicscouts.com.au) and
    ensure that the leaders in your group are aware of this. Additionally ensure
