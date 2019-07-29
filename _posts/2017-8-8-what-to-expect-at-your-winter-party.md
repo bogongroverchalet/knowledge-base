@@ -1,7 +1,6 @@
 ---
 date: 2017-8-8
 title: What to expect at your winter party
-description:
 list_order: 4
 description: >
   More in depth details about time spent at the Chalet in winter.
