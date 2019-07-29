@@ -80,6 +80,19 @@
 				document.body.classList.toggle("nav-open");
 			});
 		</script>
-		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js" async></script>
+		<script id="netlify-identity" src="https://identity.netlify.com/v1/netlify-identity-widget.js" async></script>
+		<script>
+			document.getElementById('netlify-identity').onload = function() {
+				if (window.netlifyIdentity) {
+					window.netlifyIdentity.on('init', function(user) {
+					if (!user) {
+						window.netlifyIdentity.on('login', function() {
+							document.location.href = '/admin/';
+						});
+					}
+					});
+				}
+			}
+		</script>
 	</body>
 </html>
