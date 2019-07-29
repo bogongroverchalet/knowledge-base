@@ -1,7 +1,5 @@
 backend:
-  name: github
-  repo: bogongroverchalet/knowledge-base # Path to your Github repository
-  branch: master # Branch to update (master by default)
+  name: git-gateway
 
 media_folder: uploads # Folder where user uploaded files should go
 
@@ -15,13 +13,13 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime", required: false}
       #- {label: "Type", name: "type", widget: "string"}
       #- {label: "Set", name: "set", widget: "relation", collection: "set"}
       #- {label: "Set order", name: "set_order", widget: "number"}
-      - {label: "List order", name: "list_order", widget: "number", valueType: "int"}
-      - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "List order", name: "list_order", widget: "number", valueType: "int", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "data"
     label: "Data"
