@@ -1,14 +1,14 @@
 ---
-date: 2017-8-8
 title: Merchandise
-description: >
+description: |
   Get some high quality gear, and rep the Chalet at the same time!
+date: 2017-8-8
+list_order: 4
 categories:
   - about
-list_order: 4
 ---
 
-We know our Bogong skiers, hikers and bikers love our Bogong Rover Chalet
+We know our Bogong skiers, hikers, and bikers love our Bogong Rover Chalet
 merchandise. Take a little Chalet Magic home with you from Bogong Alpine High
 Plains with one of our fleece vests, Bogong woggles or even Bill's Book, a
 history of Bogong Rover Chalet. You can replace your well-loved gear, add to
