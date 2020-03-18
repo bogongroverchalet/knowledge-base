@@ -55,7 +55,7 @@ Whether you are a die-hard mountain biker or someone who would enjoy a casual ri
 
 [Book now!](https://www.trybooking.com/BIBYB)
 
-For more details contact our \[Bookings Team]({% post_url 2017-8-8-contact %}#bookings).
+For more details contact our [Bookings Team]({% post_url 2017-8-8-contact %}#bookings).
 
 The Bogong Chalet Management Group reserves the right to change, restrict numbers and/or alter the program.
 
@@ -73,12 +73,12 @@ The minimum booking fee is $100.
 
 Note: All prices are listed in Australian Dollars (AUD).
 
-Contact the \[Bookings Officer]({% post_url 2017-8-8-contact %}#bookings) for more info or to book.
+Contact the [Bookings Officer]({% post_url 2017-8-8-contact %}#bookings) for more info or to book.
 
 ## Working Bees
 
 We run a number working bees during summer. The dates of these vary, but are generally run over weekends with public holidays. Our current working bee dates
-can be seen \[here]({{ mainsite }}#summer-dates).
+can be seen [here]({{ mainsite }}#summer-dates).
 
-Make sure you contact the \[Bookings Officer]({% post_url 2017-8-8-contact %}#bookings) to confirm your attendance (we have strict space and safety
+Make sure you contact the [Bookings Officer]({% post_url 2017-8-8-contact %}#bookings) to confirm your attendance (we have strict space and safety
 requirements).
