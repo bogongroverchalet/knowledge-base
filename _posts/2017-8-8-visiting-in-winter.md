@@ -17,6 +17,17 @@ need to vary because of weather and safety requirements).
 
 The full list of dates is available [here]({{ site.mainsite }}#winter-overview).
 
+## 2020 Prices
+
+### Early bird (before May 1)
+
+ - Current Rover $300
+ - Scout Movement Member $355
+ - Non Movement Member (ie everyone else) $420
+ - Venturer's, please see our online bookings pages for prices
+
+_If you already have a parking pass for the season for Falls Creek please contact our bookings team._
+
 ## Everyone's welcome
 
 The Bogong Rover Chalet is available to members of the Scout Association and the
