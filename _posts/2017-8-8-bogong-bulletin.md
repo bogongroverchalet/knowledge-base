@@ -1,10 +1,10 @@
 ---
-date: 2017-8-8
 title: Bogong Bulletin
 description: The Alpine Rovers and Venturers Newsletter.
+date: 2017-8-8
+list_order: 6
 categories:
   - about
-list_order: 6
 ---
 
 The Alpine Rovers and Venturers Newsletter.
