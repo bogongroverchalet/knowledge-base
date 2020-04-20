@@ -13,6 +13,7 @@ The Alpine Rovers and Venturers Newsletter.
 [bogong@vicrovers.com.au](mailto:bogong@vicrovers.com.au) to ensure you're on
 our mailing list.*
 
+- [Bogong Bulletin Issue 88](/uploads/bogongBulletinIssue88.pdf)
 - [Bogong Bulletin Spring 2017](/uploads/Bogong Bulletin Spring 2017.pdf)
 - [Bogong Bulletin Spring 2015](/uploads/Bogong-Bulletin-Spring-2015.pdf)
 - [Bogong Bulletin Winter 2015](/uploads/Bogong-Bulletin-Winter-2015.pdf)
